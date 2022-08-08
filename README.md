@@ -5,7 +5,7 @@ Tic-Tac-Toe is a two-player game played on a 3x3 board. The first player starts 
 ### Screenshots
 
 Initial board:
-![](/pictures/begin.png.png)
+![](/pictures/begin.png)
 
 Winner Determined:
 ![](/pictures/winscreen.png)
