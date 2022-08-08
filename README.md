@@ -20,5 +20,8 @@ This game was created using HTML,CSS,Javascript and Jquery.
 
 ### Get Started
 
+Click the following [link](https://sraj1820.github.io/Tic-Tac-Toe) to play the game.
+
+
 The game will start up ready to go with Player 1's selection. Once player one has selected their shape, the game will begin. Continue until a result is determined and it will display on the screen whether player 1 wins, player 2 wins, or a draw has occurred.
 
